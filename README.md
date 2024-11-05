@@ -41,7 +41,9 @@
  ### Data Analysis
   Here the line of codes, functions, queries, DAX expressions used during the analysis  
 
---- Pivot Tables Visualisation
+--- Pivot Tables Visualisation ---
+
+
   ![image](https://github.com/user-attachments/assets/8fb64504-0fda-481a-95a9-5465710dc1cd)
 
 ![image](https://github.com/user-attachments/assets/9e930c7d-d7af-42c1-ad7b-f1e95e4e9bb5)
@@ -55,10 +57,13 @@
 ##### Metrics using Excel Formulas
 
 --- Total Revenue by Region
-``` ==SUMIF(D2:D50001,D49982,H2:H50001) North
+
+``` =SUMIF(D2:D50001,D49982,H2:H50001) North =  1,950,000.00 
+![image](https://github.com/user-attachments/assets/9cd4935f-8e43-46b2-96f4-205ebc9b13c5)
+
 ``` =SUMIF(D2:D50001,D49981,H2:H50001)  West
 ``` =SUMIF(D2:D50001,D49983,H2:H50001)  South
-``` =SUMIF(D2:D50001,D49984,H2:H50001)  East```
+``` =SUMIF(D2:D50001,D49984,H2:H50001)  East
 
 
 
