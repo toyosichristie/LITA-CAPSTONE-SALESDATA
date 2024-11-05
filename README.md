@@ -21,10 +21,14 @@
 
 ### Data Cleaning and Preparation
   In the initial stageof Data cleaning and preparation,the following actions were performed
+  
     1. Data loading and Inspection
+    
     2. handling missing variables
+    
     3. Removing duplicates
+    
     4. Data cleaning and formatting
 
-    ### Explanatory Data Analysis
+### Explanatory Data Analysis
       Explanatory Data Analysis involvedd exploring the data to answer some questions such as:
