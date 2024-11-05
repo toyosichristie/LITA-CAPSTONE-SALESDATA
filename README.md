@@ -9,9 +9,12 @@ The primary source of data is Salesdata. xlsx. This is a data given as capstone 
 ### Tools Used
 - Microsoft Excel [Download Here](https://www.microsoft.com)
   
-    1 Data cleaning
-    2 Analysis and
-    3 Visualisation
+    1. Data cleaning
+  
+    2. Analysis
+  
+    3. Visualisation
+       
 - SQL- Structured Querying Language for Querying of Data.
 - Power Bi for Data Visualisation.
 - GitHub for Portfolio Building.
