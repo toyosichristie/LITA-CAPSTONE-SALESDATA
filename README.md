@@ -7,7 +7,7 @@
 The primary source of data is Salesdata. xlsx. This is a data given as capstone project in partial fulfillment of A 3-month Data Analysis training with the Incubator Hub.
 
 ### Tools Used
-- Microsoft Excel [Download Here][https://www.microsoft.com]
+- Microsoft Excel [Download Here](https://www.microsoft.com)
   
     1 Data cleaning
     2 Analysis and
