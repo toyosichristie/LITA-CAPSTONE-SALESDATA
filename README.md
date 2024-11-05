@@ -7,10 +7,11 @@
 The primary source of data is Salesdata. xlsx. This is a data given as capstone project in partial fulfillment of A 3-month Data Analysis training with the Incubator Hub.
 
 ### Tools Used
-- Microsoft Excel for
-  1 Data cleaning
-  2 Analysis and
-  3 Visualisation
+- Microsoft Excel [Download Here][https://www.microsoft.com]
+  
+    1 Data cleaning
+    2 Analysis and
+    3 Visualisation
 - SQL- Structured Querying Language for Querying of Data.
 - Power Bi for Data Visualisation.
 - GitHub for Portfolio Building.
