@@ -4,7 +4,7 @@
   In this project, the task is to analyse the Sales performance of a retail store. To explore the datasetand uncover key insights such as top-selling products, regional performance, and monthly sales trends for an optimum decision making.
 
 ### Data Sources
-  The primary source of data is Salesdata. xlsx. This is a data given as capstone project in partial fulfillment of A 3-month Data Analysis training with the Incubator Hub.
+  The primary source of data is Salesdata. xlsx. This is a data given as capstone project in partial fulfillment of A 3-month Data Analysis training with Ladies in Tech Africa (LITA) the Incubator Hub.
 
 ### Tools Used
 - Microsoft Excel [Download Here](https://www.microsoft.com)
@@ -67,6 +67,7 @@
 
 ``` =SUMIF(D2:D50001,D49982,H2:H50001)  North =  1,950,000.00
 
+
 --- Average Sales per product---
 
 ``` =AVERAGEIF(C2:C50001,C49981,H2:H50001) 158.75- Hat
@@ -80,6 +81,7 @@
 ``` =AVERAGEIF(C2:C50001,C49986,H2:H50001) 140- Gloves
 
 ``` =AVERAGEIF(C2:C50001,C49986,H2:H50001) 140- Jackets
+
 
 
 ##### SQL Queries to extract key insights
