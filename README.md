@@ -59,6 +59,7 @@
 --- Total Revenue by Region
 
 
+
 ``` =SUMIF(D2:D50001,D49981,H2:H50001)  West =  1,512,500.00 
 ``` =SUMIF(D2:D50001,D49983,H2:H50001)  South =  4,675,000.00 
 ``` =SUMIF(D2:D50001,D49984,H2:H50001)  East =  2,450,000.00
