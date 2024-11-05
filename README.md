@@ -16,7 +16,7 @@
     3. Visualisation
        
 - SQL- Structured Querying Language for Querying of Data.
-- Power Bi for Data Visualisation.
+- Power BI for Data Visualisation.
 - GitHub for Portfolio Building.
 
 ### Data Cleaning and Preparation
@@ -36,7 +36,7 @@
 - Summarize total sales by product, region and month using pivot tables.
 - Use Excel formulas to calculate Metrics such as average sales per product and total revenue by region.
 - Write SQL queries to extract key insights.
-- Create a Power Bi dashboard that visualises the insights found in Excel and SQL.
+- Create a Power BI dashboard that visualises the insights found in Excel and SQL.
 
  ### Data Analysis
   Here the line of codes, functions, queries, DAX expressions used during the analysis  
