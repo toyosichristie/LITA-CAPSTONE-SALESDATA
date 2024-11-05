@@ -35,12 +35,13 @@
 
 - Summarize total sales by product, region and month using pivot tables.
 - Use Excel formulas to calculate Metrics such as average sales per product and total revenue by region.
-- Write SQL queriesto extract key insights.
+- Write SQL queries to extract key insights.
 - Create a Power Bi dashboard that visualises the insights found in Excel and SQL.
 
  ### Data Analysis
   Here the line of codes, functions, queries, DAX expressions used during the analysis  
 
+--- Pivot Tables Visualisation
   ![image](https://github.com/user-attachments/assets/8fb64504-0fda-481a-95a9-5465710dc1cd)
 
 ![image](https://github.com/user-attachments/assets/9e930c7d-d7af-42c1-ad7b-f1e95e4e9bb5)
@@ -54,8 +55,10 @@
 ##### Metrics using Excel Formulas
 
 --- Total Revenue by Region
-```=SUMIF(D2:D50001,D49981,H2:H50001)
-```
+``` ==SUMIF(D2:D50001,D49982,H2:H50001) North
+``` =SUMIF(D2:D50001,D49981,H2:H50001)  West
+``` =SUMIF(D2:D50001,D49983,H2:H50001)  South
+``` =SUMIF(D2:D50001,D49984,H2:H50001)  East```
 
 
 
