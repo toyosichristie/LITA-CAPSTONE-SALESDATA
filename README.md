@@ -56,15 +56,18 @@
 
 ##### Metrics using Excel Formulas
 
---- Total Revenue by Region
+--- Total Revenue by Region---
 
 
-``` =SUMIF(D2:D50001,D49981,H2:H50001)  West =  1,512,500.00 
-``` =SUMIF(D2:D50001,D49983,H2:H50001)  South =  4,675,000.00 
+``` =SUMIF(D2:D50001,D49981,H2:H50001)  West =  1,512,500.00
+
+``` =SUMIF(D2:D50001,D49983,H2:H50001)  South =  4,675,000.00
+
 ``` =SUMIF(D2:D50001,D49984,H2:H50001)  East =  2,450,000.00
+
 ``` =SUMIF(D2:D50001,D49982,H2:H50001)  North =  1,950,000.00
 
---- Average Sales per product
+--- Average Sales per product---
 
 ``` =AVERAGEIF(C2:C50001,C49981,H2:H50001) 158.75- Hat
 
@@ -77,8 +80,7 @@
 ``` =AVERAGEIF(C2:C50001,C49986,H2:H50001) 140- Gloves
 
 ``` =AVERAGEIF(C2:C50001,C49986,H2:H50001) 140- Jackets
-![image](https://github.com/user-attachments/assets/8529e44d-29fe-4f70-a3da-f0a8e149f04b)
 
 
-
+##### SQL Queries to extract key insights
 
