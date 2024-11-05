@@ -43,3 +43,19 @@
 
   ![image](https://github.com/user-attachments/assets/8fb64504-0fda-481a-95a9-5465710dc1cd)
 
+![image](https://github.com/user-attachments/assets/9e930c7d-d7af-42c1-ad7b-f1e95e4e9bb5)
+
+![image](https://github.com/user-attachments/assets/15a490a3-0198-43c6-ab7b-e201bb65dea8)
+
+![image](https://github.com/user-attachments/assets/2a36f236-a0db-42a9-8da2-36820d12fc4b)
+
+![image](https://github.com/user-attachments/assets/e35249ba-77f8-4d84-9270-97409a605f84)
+
+##### Metrics using Excel Formulas
+
+--- Total Revenue by Region
+```=SUMIF(D2:D50001,D49981,H2:H50001)
+```
+
+
+
