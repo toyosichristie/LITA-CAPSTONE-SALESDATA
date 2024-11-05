@@ -40,3 +40,6 @@
 
  ### Data Analysis
   Here the line of codes, functions, queries, DAX expressions used during the analysis  
+
+  ![image](https://github.com/user-attachments/assets/8fb64504-0fda-481a-95a9-5465710dc1cd)
+
