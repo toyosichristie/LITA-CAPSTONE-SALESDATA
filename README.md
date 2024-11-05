@@ -32,3 +32,14 @@
 
 ### Explanatory Data Analysis
       Explanatory Data Analysis involvedd exploring the data to answer some questions such as:
+
+1.  Summarize total sales by product, region and month using pivot tables.
+2.  
+3.  Use Excel formulas to calculate Metrics such as average sales per product and total revenue by region.
+4.  
+5.  Write SQL queriesto extract key insights.
+6.  
+7.  Create a Power Bi dashboard that visualises the insights found in Excel and SQL.
+
+ ### Data Analysis
+  Here the line of codes, functions, queries, DAX expressions used during the analysis  
