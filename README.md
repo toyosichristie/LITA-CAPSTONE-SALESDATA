@@ -61,6 +61,10 @@
 
 Write SQL queries to extract key insights
 
+SELECT PRODUCT,SUM(Sales)
+AS TotalSales
+FROM Salesdata
+GROUP BY Product
 
 ***Total Sales for each product category***
 ![1salesdata](https://github.com/user-attachments/assets/33e23a07-13de-4932-b65f-1b127edb4823)
