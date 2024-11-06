@@ -86,7 +86,7 @@
 
 ##### SQL Queries to extract key insights
       
-![1salesdata](https://github.com/user-attachments/assets/f9c41a98-7de7-4c5c-859f-5dec8bdfc8b1)
+![1salesdata](https://github.com/user-attachments/assets/f9c41a98-7de7-4c5c-859f-5dec8bdfc8b1).
 
 ![2salesdata](https://github.com/user-attachments/assets/ccbf0825-c46a-4be4-a52c-9ccfb2f9c85e)
 
