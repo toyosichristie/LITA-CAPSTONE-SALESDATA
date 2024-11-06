@@ -83,8 +83,7 @@
 ``` =AVERAGEIF(C2:C50001,C49986,H2:H50001) 140- Jackets
 
 ##### SQL Queries to extract key insights
-      ![1salesdata](https://github.com/user-attachments/assets/60f1b345-1cf2-43e6-9a31-9d997db8f805)
-
+      
 
 
 
