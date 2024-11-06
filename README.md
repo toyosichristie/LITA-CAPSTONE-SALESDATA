@@ -83,7 +83,16 @@
 ``` =AVERAGEIF(C2:C50001,C49986,H2:H50001) 140- Jackets
 
 ##### SQL Queries to extract key insights
-     1salesdata.png
+     
+![1salesdata](https://github.com/user-attachments/assets/7f4b70bf-2489-4147-8190-c146866dbd43)
+
+![8salesdata](https://github.com/user-attachments/assets/633e7a41-68dd-49e7-86fb-7cd7cfa9e2cb)
+![7salesdata](https://github.com/user-attachments/assets/21f0e579-ad79-448e-962a-6cc8515275f5)
+![6salesdata](https://github.com/user-attachments/assets/4f5494f9-1837-4438-8fd0-6913c20ed52a)
+![5salesdata](https://github.com/user-attachments/assets/e19c0994-32e9-487e-a71c-2671a1738187)
+![4salesdata](https://github.com/user-attachments/assets/542f4b7d-f3af-45d6-b5ae-2ea4b2c96d35)
+![3salesdata](https://github.com/user-attachments/assets/d275bb07-a818-4131-aac9-8e5434cb3962)
+![2salesdata](https://github.com/user-attachments/assets/2fa5569b-d8d5-4e38-9304-960982650d53)
 
 
 
