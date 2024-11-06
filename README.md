@@ -56,20 +56,47 @@
 
 ##### Metrics using Excel Formulas
 
+
+
+
+Write SQL queries to extract key insights
+
+
+Total Sales for each product category
 ![1salesdata](https://github.com/user-attachments/assets/33e23a07-13de-4932-b65f-1b127edb4823)
+
+
+Number of Sales transactions in each Region
 
 ![2salesdata](https://github.com/user-attachments/assets/c190fdd4-63b9-46d7-96bf-174dd88611e4)
 
+
+Highest selling product by Total Sales value
+
 ![3salesdata](https://github.com/user-attachments/assets/7a2fcd12-afbb-4025-96ad-c60e7a06e877)
+
+
+Total Revenue per Product
 
 ![4salesdata](https://github.com/user-attachments/assets/d41c6848-d919-4b30-beb7-00f1f925e991)
 
+
+Monthly Sales totals for the current year
+
 ![5salesdata](https://github.com/user-attachments/assets/feef1fb2-f24d-4cfb-8733-0da69e92ce85)
+
+
+Top 5 customers by total purchase amount
 
 ![6salesdata](https://github.com/user-attachments/assets/b415f0d1-0115-40c0-962e-deb7732430a3)
 
+
+Percentage of total sales contributed by each Region
+
 ![7salesdata](https://github.com/user-attachments/assets/14f0a45c-7b96-494a-823f-dd4b179b860c)
 
+
+Products with no Sales in the last quater
 ![8salesdata](https://github.com/user-attachments/assets/86d8b6fb-df9a-4501-a63e-289bf6703c6a)
 
 
