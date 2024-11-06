@@ -85,4 +85,24 @@
 
 
 ##### SQL Queries to extract key insights
+      
+1. ![1salesdata](https://github.com/user-attachments/assets/f9c41a98-7de7-4c5c-859f-5dec8bdfc8b1)
 
+
+2. ![2salesdata](https://github.com/user-attachments/assets/ccbf0825-c46a-4be4-a52c-9ccfb2f9c85e)
+
+
+3. ![3salesdata](https://github.com/user-attachments/assets/ecc3a9eb-9f81-4a98-9169-e80fde6f02d7)
+
+
+4. ![4salesdata](https://github.com/user-attachments/assets/67f6b8ae-90b3-47af-95c8-596b3ce4b5c0)
+
+
+5. ![5salesdata](https://github.com/user-attachments/assets/1a20492d-1fe3-4457-92df-55f4a5e0ea73)
+
+6. ![6salesdata](https://github.com/user-attachments/assets/900d02cc-06ac-4195-971e-968a75dc759b)
+
+7. ![7salesdata](https://github.com/user-attachments/assets/8e6e32a8-595d-4da7-a56d-8d28883563a3)
+
+
+8.![8salesdata](https://github.com/user-attachments/assets/2ae2d3b7-702c-49c5-ac14-2f955282e33c)
