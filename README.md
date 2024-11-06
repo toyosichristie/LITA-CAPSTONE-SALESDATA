@@ -83,7 +83,9 @@
 ``` =AVERAGEIF(C2:C50001,C49986,H2:H50001) 140- Jackets
 
 ##### SQL Queries to extract key insights
-      
+      https://github.com/toyosichristie/LITA-CAPSTONE-SALESDATA/edit/main/README.md
+
+
 
 
 
