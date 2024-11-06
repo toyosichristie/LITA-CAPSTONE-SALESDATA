@@ -57,9 +57,7 @@
 ##### Metrics using Excel Formulas
 
 
-
-
-Write SQL queries to extract key insights
+#### SQL queries to extract key insights
 
 SELECT PRODUCT,SUM(Sales)
 AS TotalSales
