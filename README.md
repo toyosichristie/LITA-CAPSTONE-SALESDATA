@@ -56,45 +56,7 @@
 
 ##### Metrics using Excel Formulas
 
---- Total Revenue by Region---
-
-
-``` =SUMIF(D2:D50001,D49981,H2:H50001)  West =  1,512,500.00
-
-``` =SUMIF(D2:D50001,D49983,H2:H50001)  South =  4,675,000.00
-
-``` =SUMIF(D2:D50001,D49984,H2:H50001)  East =  2,450,000.00
-
-``` =SUMIF(D2:D50001,D49982,H2:H50001)  North =  1,950,000.00
-
-
---- Average Sales per product---
-
-``` =AVERAGEIF(C2:C50001,C49981,H2:H50001) 158.75- Hat
-
-``` =AVERAGEIF(C2:C50001,C49982,H2:H50001) 326.6666667- Shirt
-
-``` =AVERAGEIF(C2:C50001,C49983,H2:H50001) 308.75- Shoes
-
-``` =AVERAGEIF(C2:C50001,C49985,H2:H50001) 121.6666667- Socks
-
-``` =AVERAGEIF(C2:C50001,C49986,H2:H50001) 140- Gloves
-
-``` =AVERAGEIF(C2:C50001,C49986,H2:H50001) 140- Jackets
-
-##### SQL Queries to extract key insights
-     
-![1salesdata](https://github.com/user-attachments/assets/7f4b70bf-2489-4147-8190-c146866dbd43)
-
-![8salesdata](https://github.com/user-attachments/assets/633e7a41-68dd-49e7-86fb-7cd7cfa9e2cb)
-![7salesdata](https://github.com/user-attachments/assets/21f0e579-ad79-448e-962a-6cc8515275f5)
-![6salesdata](https://github.com/user-attachments/assets/4f5494f9-1837-4438-8fd0-6913c20ed52a)
-![5salesdata](https://github.com/user-attachments/assets/e19c0994-32e9-487e-a71c-2671a1738187)
-![4salesdata](https://github.com/user-attachments/assets/542f4b7d-f3af-45d6-b5ae-2ea4b2c96d35)
-![3salesdata](https://github.com/user-attachments/assets/d275bb07-a818-4131-aac9-8e5434cb3962)
-![2salesdata](https://github.com/user-attachments/assets/2fa5569b-d8d5-4e38-9304-960982650d53)
-
-
+![1salesdata](https://github.com/user-attachments/assets/33e23a07-13de-4932-b65f-1b127edb4823)
 
 
 
