@@ -38,7 +38,8 @@
 
 ### Explanatory Data Analysis
 ```
-      Explanatory Data Analysis involvedd exploring the data to answer questions such as:
+
+   Explanatory Data Analysis involvedd exploring the data to answer questions such as:
 
 - Summarize total sales by product, region and month using pivot tables.
 - Use Excel formulas to calculate Metrics such as average sales per product and total revenue by region.
@@ -47,6 +48,7 @@
 
  ### Data Analysis
 ```
+
   Here the line of codes, functions, queries, DAX expressions used during the analysis  
 
 --- Pivot Tables Visualisation ---
@@ -90,7 +92,42 @@ ORDER BY TotalSales DESC
 ```SELECT PRODUCT, SUM(Sales)
 AS TotalRevenue
 FROM Salesdata
-GROUP BY Product```
+GROUP BY Product
+```
+
+```SELECT MONTH(OrderDate) AS Month,
+SUM(Sales) AS
+MonthlySalesTotal
+FROM Salesdata WHERE
+YEAR(OrderDate)= 2024
+GROUP BY Month(OrderDate)
+Order BY Month
+```
+```SELECT Top (5) Customer_Id,
+SUM(Sales) AS
+TotalPurchaseAmount FROM Salesdata
+GROUP BY Customer_Id
+ORDER BY
+TotalPurchaseAmount DESC
+```
+```SELECT Region,SUM(Sales)
+AS RegionTotalSales,
+FORMAT(ROUND((SUM(Sales)/CAST((SELECT SUM(Sales)
+FROM Salesdata) AS DECIMAL(10,2))*100),1),'0.#')
+AS PercentageOfTotalSales
+FROM Salesdata
+Group BY Region
+ORDER BY
+PercentageOfTotalSales
+DESC
+```
+
+```SELECT Product FROM Salesdata
+GROUP BY Product
+HAVING SUM(CASE WHEN OrderDate BETWEEN '2024-06-01' AND '2024-08-31'
+THEN 1 ELSE 0 END)= 0
+```
+
 ***Total Sales for each product category***
 ![1salesdata](https://github.com/user-attachments/assets/33e23a07-13de-4932-b65f-1b127edb4823)
 
