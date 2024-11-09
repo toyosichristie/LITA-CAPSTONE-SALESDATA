@@ -20,18 +20,18 @@
 - GitHub for Portfolio Building.
 
 ### Data Cleaning and Preparation
-  In the initial stageof Data cleaning and preparation,the following actions were performed
+  In the initial stage of Data cleaning and preparation,the following actions were performed:
   
     1. Data loading and Inspection
     
-    2. handling missing variables
+    2. Handling missing variables
     
     3. Removing duplicates
     
     4. Data cleaning and formatting
 
 ### Explanatory Data Analysis
-      Explanatory Data Analysis involvedd exploring the data to answer some questions such as:
+      Explanatory Data Analysis involvedd exploring the data to answer questions such as:
 
 - Summarize total sales by product, region and month using pivot tables.
 - Use Excel formulas to calculate Metrics such as average sales per product and total revenue by region.
@@ -59,10 +59,11 @@
 
 #### SQL queries to extract key insights
 
-SELECT PRODUCT,SUM(Sales)
+```SELECT PRODUCT,SUM(Sales)
 AS TotalSales
 FROM Salesdata
 GROUP BY Product
+```
 
 ***Total Sales for each product category***
 ![1salesdata](https://github.com/user-attachments/assets/33e23a07-13de-4932-b65f-1b127edb4823)
