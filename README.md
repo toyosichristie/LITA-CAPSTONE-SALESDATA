@@ -6,6 +6,7 @@
 ```
   In this project, the task is to analyse the Sales performance of a retail store. To explore the datasetand uncover key insights such as top-selling products, regional performance, and monthly sales trends for an optimum decision making.
 
+
 ### Data Sources
 ```
   The primary source of data is Salesdata. xlsx. This is a data given as capstone project in partial fulfillment of A 3-month Data Analysis training with Ladies in Tech Africa (LITA) the Incubator Hub.
@@ -46,7 +47,7 @@
 - Write SQL queries to extract key insights.
 - Create a Power BI dashboard that visualises the insights found in Excel and SQL.
 
- ### Data Analysis
+### Data Analysis
 ```
 
   Here the line of codes, functions, queries, DAX expressions used during the analysis  
