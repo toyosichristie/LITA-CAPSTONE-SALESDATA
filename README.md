@@ -4,18 +4,20 @@
 ```
 ## Table of Content
 ```
-[Project Title](#project-title)
 
+[Project Overview](#project-overview)
 
-Project Overview
+[Data Sources](#data-sources)
 
-Data Sources
+[Tools Used](#Tools-Used)
 
-Tools Used
+[Data Cleaning and Preparation](#Data-Cleaning-and-Preparation)
 
-Data Cleaning and Preparation
+[Exploratory Data Analysis](#Exploratory-Data-Analysis)
 
-Exploratory Data Analysis
+[Data Analysis](#Data-Analysis)
+
+[Data Visualization](#Data-Visualization)
 
 Data Visualization
 
