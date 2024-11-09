@@ -1,13 +1,17 @@
 # LITA-CAPSTONE-SALESDATA
 ```
 ## Project Title- Sales Performance Analysis for a Retail Store
+```
 ### Project Overview
+```
   In this project, the task is to analyse the Sales performance of a retail store. To explore the datasetand uncover key insights such as top-selling products, regional performance, and monthly sales trends for an optimum decision making.
 
 ### Data Sources
+```
   The primary source of data is Salesdata. xlsx. This is a data given as capstone project in partial fulfillment of A 3-month Data Analysis training with Ladies in Tech Africa (LITA) the Incubator Hub.
 
 ### Tools Used
+```
 - Microsoft Excel [Download Here](https://www.microsoft.com)
   
     1. Data cleaning
@@ -21,6 +25,7 @@
 - GitHub for Portfolio Building.
 
 ### Data Cleaning and Preparation
+```
   In the initial stage of Data cleaning and preparation,the following actions were performed:
   
     1. Data loading and Inspection
@@ -32,6 +37,7 @@
     4. Data cleaning and formatting
 
 ### Explanatory Data Analysis
+```
       Explanatory Data Analysis involvedd exploring the data to answer questions such as:
 
 - Summarize total sales by product, region and month using pivot tables.
@@ -40,6 +46,7 @@
 - Create a Power BI dashboard that visualises the insights found in Excel and SQL.
 
  ### Data Analysis
+```
   Here the line of codes, functions, queries, DAX expressions used during the analysis  
 
 --- Pivot Tables Visualisation ---
@@ -56,7 +63,7 @@
 ![image](https://github.com/user-attachments/assets/e35249ba-77f8-4d84-9270-97409a605f84)
 
 ##### Metrics using Excel Formulas
-
+```
 
 #### SQL queries to extract key insights
 
