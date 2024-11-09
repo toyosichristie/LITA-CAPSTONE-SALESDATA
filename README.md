@@ -72,13 +72,11 @@ Recommendation
 
 ### Data Analysis
 ```
-
-  Here the line of codes, functions, queries, DAX expressions used during the analysis  
+ Here the line of codes, functions, queries, DAX expressions used during the analysis  
 
 --- Pivot Tables Visualisation ---
 
-
-  ![image](https://github.com/user-attachments/assets/8fb64504-0fda-481a-95a9-5465710dc1cd)
+ ![image](https://github.com/user-attachments/assets/8fb64504-0fda-481a-95a9-5465710dc1cd)
 
 ![image](https://github.com/user-attachments/assets/9e930c7d-d7af-42c1-ad7b-f1e95e4e9bb5)
 
@@ -87,6 +85,11 @@ Recommendation
 ![image](https://github.com/user-attachments/assets/2a36f236-a0db-42a9-8da2-36820d12fc4b)
 
 ![image](https://github.com/user-attachments/assets/e35249ba-77f8-4d84-9270-97409a605f84)
+
+![image](https://github.com/user-attachments/assets/e10d49ac-55fb-4b6c-be0d-ca54abf23d03)
+
+
+
 
 ##### Metrics using Excel Formulas
 ```
