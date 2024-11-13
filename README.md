@@ -1,9 +1,14 @@
 # LITA-CAPSTONE-SALESDATA
 ```
+
+
 ## Project Title - Sales Performance Analysis for a Retail Store
 ```
+
+
 ## Table of Content
-```
+
+[Project Title](#project-title)
 
 [Project Overview](#project-overview)
 
@@ -19,11 +24,8 @@
 
 [Data Visualization](#Data-Visualization)
 
-Data Visualization
+[Recommendation](#Recommendation)
 
-Data Analysis
-
-Recommendation
 
 ### Project Overview
 ```
