@@ -34,6 +34,7 @@
 
 
 ### Data Sources
+```
   The primary source of data is Salesdata. xlsx. This is a data given as capstone project in partial fulfillment of A 3-month Data Analysis training with Ladies in Tech Africa (LITA) the Incubator Hub.
 
 
@@ -66,30 +67,30 @@
 ### Explanatory Data Analysis
 ```
 
-   Explanatory Data Analysis involvedd exploring the data to answer questions such as:
+   Explanatory Data Analysis involvedd exploring the data to answer questions such as:                                                                                     
 
 - Summarize total sales by product, region and month using pivot tables.
 - Use Excel formulas to calculate Metrics such as average sales per product and total revenue by region.
 - Write SQL queries to extract key insights.
 - Create a Power BI dashboard that visualises the insights found in Excel and SQL.
-
+      
 ### Data Analysis
-```
+```                 
  Here the line of codes, functions, queries, DAX expressions used during the analysis  
+ 
 
 
-```
+
 --- Pivot Tables Visualisation ---
-
+ 
 
 ![pivot1](https://github.com/user-attachments/assets/3552a464-3979-4c43-b242-6c353aae12e1)
 
-
+                     
 ![pivot2](https://github.com/user-attachments/assets/bc9e584f-1261-4cb6-a536-e137ad9f5e79)
 
  
  ![pivot3](https://github.com/user-attachments/assets/9f2f9438-6920-4a05-87fb-dca46a5d4c44)
-
 
 
 ![pivot4](https://github.com/user-attachments/assets/0eea6019-82d6-45a3-a6c9-a44bebf58a27)
@@ -107,7 +108,7 @@ AS TotalSales
 FROM Salesdata
 GROUP BY Product
 ```
-
+      
 #### SQL queries to extract key insights
 ```
 
@@ -203,5 +204,18 @@ THEN 1 ELSE 0 END)= 0
 
 
 
+
+### Interpretation of Findings
+```
+
+
+
+
+
+
+
+
+
+## Recommendation
 
 
