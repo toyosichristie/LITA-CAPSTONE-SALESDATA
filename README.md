@@ -28,13 +28,12 @@
 
 
 ### Project Overview
-
 ```
   In this project, the task is to analyse the Sales performance of a retail store. To explore the datasetand uncover key insights such as top-selling products, regional performance, and monthly sales trends for an optimum decision making.
 
 
 
-**Data Sources**
+### Data Sources
   The primary source of data is Salesdata. xlsx. This is a data given as capstone project in partial fulfillment of A 3-month Data Analysis training with Ladies in Tech Africa (LITA) the Incubator Hub.
 
 
