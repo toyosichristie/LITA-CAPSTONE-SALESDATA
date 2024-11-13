@@ -119,7 +119,7 @@ FROM Salesdata
 Group by Region
 ```
 
-```SELECT Top(1) PRODUCT,
+ ```SELECT Top(1) PRODUCT,
 SUM(Sales) AS TotalSales
 FROM Salesdata
 GROUP BY Product
@@ -154,7 +154,7 @@ FROM Salesdata) AS DECIMAL(10,2))*100),1),'0.#')
 AS PercentageOfTotalSales
 FROM Salesdata
 Group BY Region
-ORDER BY
+  ORDER BY
 PercentageOfTotalSales
 DESC
 ```
@@ -203,7 +203,7 @@ THEN 1 ELSE 0 END)= 0
 ![8salesdata](https://github.com/user-attachments/assets/86d8b6fb-df9a-4501-a63e-289bf6703c6a)
 
 
-
+ 
 
 ### Interpretation of Findings
 ```
@@ -216,6 +216,10 @@ THEN 1 ELSE 0 END)= 0
 
 
 
-## Recommendation
+# # Recommendation
 
 
+
+
+
+                                        
