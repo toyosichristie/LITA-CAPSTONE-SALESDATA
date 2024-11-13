@@ -54,7 +54,7 @@ Recommendation
   
     1. Data loading and Inspection
     
-    2. Handling missing variables
+    2. Handling missing variables(Total Sales/Revenue)
     
     3. Removing duplicates
     
@@ -74,16 +74,30 @@ Recommendation
 ```
  Here the line of codes, functions, queries, DAX expressions used during the analysis  
 
+
+```
 --- Pivot Tables Visualisation ---
 
 
+![pivot1](https://github.com/user-attachments/assets/3552a464-3979-4c43-b242-6c353aae12e1)
 
 
+![pivot2](https://github.com/user-attachments/assets/bc9e584f-1261-4cb6-a536-e137ad9f5e79)
 
  
+ ![pivot3](https://github.com/user-attachments/assets/9f2f9438-6920-4a05-87fb-dca46a5d4c44)
 
 
+
+![pivot4](https://github.com/user-attachments/assets/0eea6019-82d6-45a3-a6c9-a44bebf58a27)
+
+
+
+```
 ##### Metrics using Excel Formulas
+
+
+```
 
 ```SELECT PRODUCT,SUM(Sales)
 AS TotalSales
