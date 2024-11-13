@@ -34,10 +34,9 @@
 
 
 
-### **Data Sources**
-
-```
+**Data Sources**
   The primary source of data is Salesdata. xlsx. This is a data given as capstone project in partial fulfillment of A 3-month Data Analysis training with Ladies in Tech Africa (LITA) the Incubator Hub.
+
 
 ### Tools Used
 ```
